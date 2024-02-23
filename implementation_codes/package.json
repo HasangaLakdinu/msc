@@ -1,0 +1,23 @@
+{
+  "name": "implementation_codes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "btoa": "^1.2.1",
+    "csv-reader": "^1.0.8",
+    "csv-write-stream": "^2.0.0",
+    "csv-writer": "^1.6.0",
+    "natural": "^5.0.3",
+    "node-fetch": "^2.6.1",
+    "node-nlp": "^4.22.1",
+    "sentiment": "^5.0.2"
+  }
+}
